@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/web-common/src/main/java/core/action/SuperAct.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web-common/src/main/java/core/annotation/DesExchange.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web-common/src/main/java/core/annotation/FieldMeta.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web-common/src/main/java/core/annotation/UserDefined.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web-common/src/main/java/core/vo/EMailVO.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
